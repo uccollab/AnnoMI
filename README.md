@@ -27,4 +27,15 @@ The dataset is stored in `dataset.csv`, in the same folder as this README. **Eac
 * `utterance_text`: the content of this utterance.
 * `main_therapist_behaviour`: the (main) therapist behaviour of this utterance. "n/a" if the utterance is a client utterance, otherwise one of ["reflection", "question", "therapist\_input", "other].
 * `client_talk_type`: the client talk type of this utterance. "n/a" if the utterance is a therapist utterance, otherwise one of ["change", "neutral", "sustain"].
-        
+
+## Citation
+If you use this dataset in your research, please cite our [paper](https://zixiu-alex-wu.github.io/files/anno-mi-icassp-camera-ready.pdf) in the format below:
+```bash
+@inproceedings{wu2022annomi,
+  title={Anno-MI: A Dataset Of Expert-Annotated Counselling Dialogues},
+  author={Wu, Zixiu and Balloccu, Simone and Kumar, Vivek and Helaoui, Rim and Reiter, Ehud and Reforgiato Recupero, Diego and Riboni, Daniele},
+  booktitle={ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2022},
+  organization={IEEE}
+}
+```
