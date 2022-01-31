@@ -31,7 +31,7 @@ The dataset is stored in `dataset.csv`, in the same folder as this README. **Eac
 ## Citation
 If you use this dataset in your research, please cite our [paper](https://zixiu-alex-wu.github.io/files/anno-mi-icassp-camera-ready.pdf) in the format below:
 ```bash
-@inproceedings{wu2022annomi,
+@inproceedings{wu2022anno,
   title={Anno-MI: A Dataset Of Expert-Annotated Counselling Dialogues},
   author={Wu, Zixiu and Balloccu, Simone and Kumar, Vivek and Helaoui, Rim and Reiter, Ehud and Reforgiato Recupero, Diego and Riboni, Daniele},
   booktitle={ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
