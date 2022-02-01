@@ -29,7 +29,7 @@ The dataset is stored in `dataset.csv`, in the same folder as this README. **Eac
 * `client_talk_type`: the client talk type of this utterance. "n/a" if the utterance is a therapist utterance, otherwise one of ["change", "neutral", "sustain"].
 
 ## Citation
-If you use this dataset in your research, please cite our [paper](https://zixiu-alex-wu.github.io/files/anno-mi-icassp-camera-ready.pdf) in the format below:
+If you use this dataset in your research, please cite our [paper](https://zixiu-alex-wu.github.io/files/AnnoMI_ICASSP_Camera_Ready_Personal_Use.pdf) in the format below:
 ```bash
 @inproceedings{wu2022anno,
   title={Anno-MI: A Dataset Of Expert-Annotated Counselling Dialogues},
