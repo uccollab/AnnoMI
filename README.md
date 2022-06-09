@@ -8,7 +8,7 @@ This version contains:
 
 * Metadata of each transcript & utterance, e.g. the demonstrated MI quality and the URL of the original video
 * Each utterance
-* The annotation on each utterance: **(Main) Therapist Behaviour** for each therapist utterance and **Client Talk Type** for each client utterance
+* The annotation on each utterance: **(Main) Therapist Behaviour** for each therapist utterance and **Client Talk Type** for each client utterance.
 
 ## Dataset Format
 
