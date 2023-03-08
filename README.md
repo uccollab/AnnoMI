@@ -40,3 +40,6 @@ If you use this dataset in your research, please cite our [paper](https://zixiu-
   organization={IEEE}
 }
 ```
+
+## Full Version
+We expect to be able to release the full version of AnnoMI in this repo by 15 Mar 2023. It will include additional attributes, such as simple/complex reflection. The full AnnoMI comes with our paper ``Creation, Analysis and Evaluation of AnnoMI, a Dataset of Expert-Annotated Counselling Dialogues'' (to appear in _Future Internet_), which is an extended version of our ICASSP paper. We will add a link to the paper and its citation format once the paper is published.
