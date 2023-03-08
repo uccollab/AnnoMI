@@ -10,6 +10,8 @@ This version contains:
 * Each utterance.
 * The annotation on each utterance: **(Main) Therapist Behaviour** for each therapist utterance and **Client Talk Type** for each client utterance.
 
+License: Public Domain
+
 ## Dataset Format
 
 The dataset is stored in `dataset.csv`, in the same folder as this README. **Each row represents the information associated with an utterance.**
