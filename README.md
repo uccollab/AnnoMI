@@ -56,7 +56,7 @@ If you use this dataset in your research, you can cite our [initial paper](https
 }
 ```
 
-And our [extended paper]() which contains deeper analysis of the data:
+And our [extended paper](https://www.mdpi.com/1999-5903/15/3/110) which contains deeper analysis of the data:
 ```bash
 @Article{fi15030110,
 AUTHOR = {Wu, Zixiu and Balloccu, Simone and Kumar, Vivek and Helaoui, Rim and Reforgiato Recupero, Diego and Riboni, Daniele},
